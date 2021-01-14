@@ -29,8 +29,6 @@ public class UnicaEntradaServlet extends HttpServlet {
 			return;
 		}
 		
-		
-		
 		String nomeDaClasse = "br.com.alura.gerenciador.acao." + paramAcao;
 		
 		String nome;
